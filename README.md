@@ -1,3 +1,5 @@
+LIVE : https://zombot-and-rating-pred.herokuapp.com/
+
 This is the integration of chatbot and rating prediction app.
 
 It is composed of two functions - one is the Rating Prediction and other one is ZOMBOT
