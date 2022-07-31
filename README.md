@@ -4,7 +4,7 @@ This is the integration of chatbot and rating prediction app.
 
 It is composed of two functions - one is the Rating Prediction and other one is ZOMBOT
 
-![Zomato gihhub gif](https://user-images.githubusercontent.com/66478859/182026081-260180a9-cb21-40c3-9888-a8d3821d1489.gif)
+![Zomato gihhub gif](https://user-images.githubusercontent.com/66478859/182026303-44c239c7-33d0-43e6-b17a-39fbcbeeba37.gif)
 
 
 **app.py** - Is the file where we run our flask application.
