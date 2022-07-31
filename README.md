@@ -4,6 +4,8 @@ This is the integration of chatbot and rating prediction app.
 
 It is composed of two functions - one is the Rating Prediction and other one is ZOMBOT
 
+![Zomato gihhub gif](https://user-images.githubusercontent.com/66478859/182026081-260180a9-cb21-40c3-9888-a8d3821d1489.gif)
+
 
 **app.py** - Is the file where we run our flask application.
          We input the details such as city,cuisine,location,pricing,reviews and then are able to see the prediction result.
